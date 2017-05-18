@@ -1,0 +1,43 @@
+
+prowadziæ do bazy osoby
+Anna(kobieta,1935-)
+Bogdan(mê¿czyzna,1951-)
+Celina(kobieta,1954-)
+Dawid(mê¿czyzna,1955-)
+El¿bieta(kobieta,1975-)
+Franciszek(mê¿czyzna,1978-)
+Gra¿yna(kobieta,1979-)
+Henryk(mê¿czyzna,1982-)
+Irena(kobieta,2004-)
+Jan(mê¿czyzna,2006-)
+Kamila(kobieta,2007-)
+Leszek(mê¿czyzna,2009-)
+Ma³gorzata(kobieta,2011-)
+Natalia(kobieta,2013-)
+
+Wprowadziæ do bazy pokrewieñstwa ( strza³ka od rodzica do dziecka )
+Anna->Celina
+Anna->Dawid
+Bogdan->El¿bieta
+Bogdan->Franciszek
+Celina->Franciszek
+Dawid->Gra¿yna
+Dawid->Henryk
+El¿bieta->Irena
+El¿bieta->Jan
+Franciszek->Kamila
+Gra¿yna->Leszek
+Gra¿yna->Ma³gorzata
+Henryk->Natalia
+Franciszek->Anna  // niemo¿liwe Anna to babcia Franciszka
+Ma³gorzata->Kamila // niemo¿liwe w dniu urodzin Kamili nie by³o Ma³gorzaty na œwiecie
+El¿bieta->Leszek  // niemo¿liwe aby by³y dwie matki
+
+Wprowadziæ datê œmierci
+Gra¿yna 2013
+Franciszek 2005  // niemo¿liwe dziecko Kamila urodzone w 2007
+
+Wyznaczyæ
+wspólnych przodków Leszka i Natalii
+Spadkobierców Dawida
+

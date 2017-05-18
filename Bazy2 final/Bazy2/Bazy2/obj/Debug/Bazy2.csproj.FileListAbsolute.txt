@@ -1,0 +1,24 @@
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\bin\Debug\Bazy2.exe.config
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\obj\Debug\Bazy2.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\obj\Debug\Bazy2.Form1.resources
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\obj\Debug\Bazy2.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\obj\Debug\Bazy2.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\bin\Debug\Bazy2.exe
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\bin\Debug\Bazy2.pdb
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\obj\Debug\Bazy2.exe
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\obj\Debug\Bazy2.pdb
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\bin\Debug\Db4objects.Db4o.dll
+C:\Users\Mateusz\Desktop\Bazy2\Bazy2\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\bin\Debug\Bazy2.exe.config
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\obj\Debug\Bazy2.exe
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\obj\Debug\Bazy2.pdb
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\bin\Debug\Bazy2.exe
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\bin\Debug\Bazy2.pdb
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\bin\Debug\Db4objects.Db4o.xml
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\obj\Debug\Bazy2.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\obj\Debug\Bazy2.Form1.resources
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\obj\Debug\Bazy2.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Bazy Miś\Bazy2\Bazy2\obj\Debug\Bazy2.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\Semestr VI\Obiektowe bazy danych\Bazy2 final\Bazy2\Bazy2\bin\Debug\Bazy2.exe.config
+C:\Users\Mateusz\Desktop\Semestr VI\Obiektowe bazy danych\Bazy2 final\Bazy2\Bazy2\obj\Debug\Bazy2.exe
+C:\Users\Mateusz\Desktop\Semestr VI\Obiektowe bazy danych\Bazy2 final\Bazy2\Bazy2\obj\Debug\Bazy2.pdb
